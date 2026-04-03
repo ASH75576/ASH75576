@@ -1,7 +1,7 @@
 # Hi 👋 I'm Al Amin
 
-💻 Full Stack Developer (Learning Stage)
-🌱 Currently learning Java & Web Development
+💻 Full Stack Developer 
+🌱 Java & Web Development
 🚀 Passionate about building real-world projects
 
 ---
@@ -9,7 +9,10 @@
 ## 🔧 Skills
 
 * HTML, CSS, JavaScript
-* Java (Learning)
+* Java
+* Python
+* React.js
+* Node.js
 * Git & GitHub
 
 ---
@@ -29,7 +32,6 @@
 
 ## 🔥 Current Focus
 
-* Learning Java (Core + OOP)
 * Building small real-world projects
 * Improving problem solving skills
 
