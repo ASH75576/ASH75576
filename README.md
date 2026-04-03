@@ -5,6 +5,11 @@
 🚀 Passionate about building real-world projects
 
 ---
+## 🚀 About Me
+I am a CSE student from Bangladesh 🇧🇩  
+Passionate about coding and building real-world applications.  
+Currently focused on Java and Web Development.
+
 
 ## 🔧 Skills
 
@@ -34,6 +39,18 @@
 
 * Building small real-world projects
 * Improving problem solving skills
+
+---
+
+## Languages:
+* 🇧🇩 Bangla : Native
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+
+--
+## Sports / Game / Activities / Hobby:
+🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+✈️ Travelling
 
 ---
 
